@@ -1,0 +1,19 @@
+@import url(../css/animate.css);
+@import url(../css/bootstrap.css);
+@import url(../css/font-awesome.css);
+@import url(../css/jquery.fancybox.css);
+@import url(../css/lightgallery.min.css);
+@import url(../css/style.css);
+@import url(../css/settings.css);
+
+.center-block{
+	display: block;
+	position: relative;
+	margin: 0 auto;
+}
+
+.center-block-img{
+	display: block;
+	position: relative;
+	margin: 30px auto;
+}
